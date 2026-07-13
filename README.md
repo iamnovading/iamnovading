@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nova 👋
 
-<!--
-**iamnovading/iamnovading** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product designer who ships production UI — Figma to live code, using AI-assisted workflows deliberately, not just for demos.
+ 
+I care about design systems, fast iteration, and knowing exactly where AI helps and where I override it.
 
-Here are some ideas to get you started:
+## What I do
+- Design systems & component libraries — tokens through to shipped UI
+- Rapid prototyping — idea to live product in days, not sprints
+- AI-paired frontend development — Claude Code / Codex in a real, documented workflow
+- Interaction & visual craft — accessibility and polish aren't an afterthought
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+Exploring agentic design workflows in corporation environment
+
+## Let's talk
+baoqidingx@gmail.com
